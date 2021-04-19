@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Session" max_length="40" name="u_session" type="collection">
+        <element label="Date" max_length="40" name="u_date" type="glide_date"/>
+        <element label="Title" max_length="40" name="u_title" type="string"/>
+    </element>
+</database>
